@@ -1,0 +1,3 @@
+[submodule "discord-rss-fetcher"]
+	path = discord-rss-fetcher
+	url = https://github.com/bhigginsuk/discord-rss-fetcher.git
